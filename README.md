@@ -1,3 +1,6 @@
+dataset: [here](https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2&pageSize=5&tags=Business)
+dashboard: [here](https://public.tableau.com/app/profile/wiktor.matuszyk/viz/Restaurant_17422181901500/Dashboard1)
+
 # Restaurant Sales Report
 
 ## Key Metrics Overview
